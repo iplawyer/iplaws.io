@@ -1,0 +1,6 @@
+baseURL = "http://iplaws.io"
+languageCode = "en-us"
+title = "IP Laws"
+theme = "tale"
+[Author]
+    name = "IP Laws"
